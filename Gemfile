@@ -7,8 +7,8 @@ ruby '3.3.3'
 gem 'rails', '~> 7.1.3', '>= 7.1.3.2'
 
 gem 'bootsnap', require: false
-gem 'rspec-rails'
-gem 'rubocop-rails', require: false
+gem 'rspec-rails', '>= 6.1.3'
+gem 'rubocop-rails', '>= 2.25.1', require: false
 gem 'rubocop-rspec', require: false
 gem 'rubocop-rspec_rails', require: false
 gem 'sprockets-rails'
