@@ -9,7 +9,7 @@ gem 'rails', '~> 7.1.3', '>= 7.1.3.4'
 gem 'bootsnap', require: false
 gem 'rspec-rails', '>= 6.1.3'
 gem 'rubocop-rails', '>= 2.25.1', require: false
-gem 'rubocop-rspec', require: false
+gem 'rubocop-rspec', '>= 3.0.3', require: false
 gem 'rubocop-rspec_rails', require: false
 gem 'sprockets-rails'
 
